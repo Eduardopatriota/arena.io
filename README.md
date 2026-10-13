@@ -5,6 +5,9 @@ na pasta crash-game
 cd crash-game
 npm run dev 
 
+cd server 
+npm run dev
+
 
 
 # React + TypeScript + Vite
